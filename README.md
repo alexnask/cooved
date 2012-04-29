@@ -3,8 +3,8 @@ cooved
 
 ooc IDE written in ooc
 Dependencies:
-- rock[http://github.com/nddrylliog/rock]
-- ooc-gtk[http://github.com/nddrylliog/ooc-gtk]
+- [rock](http://github.com/nddrylliog/rock)
+- [ooc-gtk](http://github.com/nddrylliog/ooc-gtk)
 
 Here are some ideas on which I will start working:
 
