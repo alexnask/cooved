@@ -1,7 +1,7 @@
 cooved
 ======
 
-ooc IDE written in ooc
+ooc IDE written in ooc<br/>
 Dependencies:
 - [rock](http://github.com/nddrylliog/rock)
 - [ooc-gtk](http://github.com/nddrylliog/ooc-gtk)
