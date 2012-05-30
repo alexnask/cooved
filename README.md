@@ -37,3 +37,4 @@ SOULD SUPPORT
 - Custom hotkey layouts
 - Browse open-source projects hosted on github
 - Debugging with gdb (gdb-ooc ?) through a simple UI
+- "Special" literals which translate to ooc code (fully configurable). For example, JSON literals that with some trigger (key combination / whatever) calls the JSON generator approprietly.
